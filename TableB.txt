@@ -1,0 +1,5 @@
+B
+ID	VALUE
+2	A
+4	B
+3	E
